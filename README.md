@@ -1,4 +1,5 @@
 To view the webpages, start with "Netflix.html". 
+
 Created clone of webpages(4 pages) of Netflix using HTML, CSS:
 1) Home page: by clicking "sign-in" button, the 'sign-in page' is opened and for 'browsing page',click "Get start" button.
 2) sign-in page: by clicking "sign-in" button, the "browsing page " is displayed.
