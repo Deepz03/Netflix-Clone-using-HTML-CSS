@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: white;
+    font-family: sans-serif;
+    background-color: black;
+}
+.head{
+  
+    padding: 5px 10px 40px 5px;
+    position: absolute;
+    top: 8px;
+    left: 5px;
+}
+#bgimage{
+    width: 100vw;
+    height: 90vh;
+    object-fit: cover;
+    position: relative;
+    z-index: -1;
+    
+}
+.im{
+    position: absolute;
+    bottom: 200px;
+    left: 60px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+.anime{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    
+}
+
+.Top_search{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+.india{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+.us{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+.block{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+
+.award{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    margin-top: 40px;
+}
+ 
+.south{
+    padding: 20px 5px 10px 20px;
+    font-size: 23px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+a:link {
+    color:white
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: red;
+
+}

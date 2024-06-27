@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgba(0,0,0,0.7);
+    font-family: sans-serif;
+}
+.top{
+    font-family:sans-serif;
+    font-size: 50px;
+    color: red;
+    text-shadow: 7px 7px 10px black;
+    font-weight: bold;
+    margin: 40px;
+    margin-left: 100px;
+
+}
+
+.mid{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 150px;
+    font-weight: bold;
+}
+
+.bottom{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-shadow: 7px 7px 10px black;
+    
+}
+
+.main{
+    background-image:url("https://net-media.vercel.app/images/misc/background.jpg");
+    background-color: rgba(0,0,0,0.7);
+    background-blend-mode: darken;
+    padding: 20px 10px 180px 10px;
+}
+
+.sub1{
+    background-color: black;
+    margin-top: 10px;
+    padding: 30px 30px 90px 30px;
+    color: white;
+    font-size:25px ;
+    text-align: center;
+}
+
+.sub2{
+    background-color: black;
+    margin-top: 10px;
+    padding: 30px 30px 90px 30px;
+    color: white;
+    font-size:25px ;
+    text-align: left;
+}
+
+.sub3{
+    background-color: black;
+    margin-top: 10px;
+    padding: 30px 30px 90px 30px;
+    color: white;
+    font-size:25px ;
+    text-align: center;
+}
+
+.sub4{
+    background-color: black;
+    margin-top: 10px;
+    padding: 30px 30px 90px 30px;
+    color: white;
+    font-size:25px ;
+    text-align: left;
+}
+

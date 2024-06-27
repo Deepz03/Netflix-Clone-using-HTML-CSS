@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.head{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.side{
+    margin: 50px 30px 10px 170px;
+    font-size: 25px;
+    
+}
+
+.first{
+    margin: 0px 30px 10px 160px;
+    position: absolute;
+    top:150px;
+    bottom: 240px;
+    
+
+}
+.box_f{
+    margin: 20px 0px 0px 0px;
+    border: 1px solid black;
+    padding: 20px 0px 0px 0px;
+}
+
+.second{
+    position: absolute;
+    left:500px;
+    margin-top:120px;
+    margin-left: 40px;
+    border: 1px solid black;
+    
+    padding-left: 20px;
+
+}
+
+.third{
+    position: absolute;
+    left:540px;
+    top: 1200px;
+    border: 1px solid black;
+    padding: 30px 550px 20px 20px;
+}
+
+.bottom{
+    position: absolute;
+    width: 100vw;
+    top:1350px;
+    padding: 0px 0px 20px 20px;
+    text-decoration: underline;
+
+}
